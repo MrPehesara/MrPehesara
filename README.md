@@ -1,24 +1,34 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:082F49,70:0369A1,100:00D9FF&text=MR%20PEHESARA&fontColor=FFFFFF&fontSize=58&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:082F49,60:075985,100:00D9FF&text=MR%20PEHESARA&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20DIGITAL%20INNOVATOR&descSize=16&descAlignY=57&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Modern+Digital+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning.+Always+Creating." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+MrPehesara+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Web+%26+Application+Developer+%F0%9F%9A%80;Creating+Modern+Digital+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%92%99" alt="Typing Animation"/>
 
 <br/><br/>
 
 <a href="https://github.com/MrPehesara">
-<img src="https://komarev.com/ghpvc/?username=MrPehesara&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=MrPehesara&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 </a>
 <a href="https://github.com/MrPehesara?tab=followers">
-<img src="https://img.shields.io/github/followers/MrPehesara?style=for-the-badge&color=0369A1&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/followers/MrPehesara?style=for-the-badge&color=0891B2&label=FOLLOWERS&logo=github"/>
+</a>
+<a href="https://github.com/MrPehesara?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/MrPehesara)
-[![Panda Net](https://img.shields.io/badge/Panda%20Net-020617?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)](https://www.pandanet.site/)
+<a href="https://www.pandanet.site/">
+<img src="https://img.shields.io/badge/PANDA%20NET-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
+</a>
+<a href="https://github.com/MrPehesara">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+
+<br/><br/>
 
 </div>
 
@@ -26,38 +36,49 @@
 
 <div align="center">
 
-## 👨‍💻 ABOUT ME
+## ⚡ WHO AM I?
 
-**Building the future, one line of code at a time.**
+### Full Stack Developer | Digital Creator
+
+**Building innovative ideas into powerful digital experiences.**
 
 </div>
 
-```js
-const developer = {
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-Web%20%26%20App%20Development-020617?style=flat-square&labelColor=075985"/>
+<img src="https://img.shields.io/badge/MINDSET-Always%20Learning-020617?style=flat-square&labelColor=075985"/>
+<img src="https://img.shields.io/badge/DRIVEN-By%20Creativity-020617?style=flat-square&labelColor=075985"/>
+
+</div>
+
+### 👨‍💻 Developer Profile
+
+```javascript
+const pehesara = {
     name: "MrPehesara",
     role: "Full Stack Developer",
-    passion: "Building Digital Experiences",
-
+    passion: "Technology & Innovation",
     interests: [
         "Web Development",
-        "App Development",
-        "Modern UI/UX",
-        "Creative Technology"
+        "Application Development",
+        "UI/UX Design",
+        "Software Engineering",
+        "Digital Innovation"
     ],
-
-    mindset: "Learn • Build • Improve • Repeat",
-
-    goal: "Turning ideas into reality."
+    mindset: "Learn. Build. Innovate.",
+    mission: "Turning Ideas Into Reality"
 };
 
-console.log("Let's build something amazing! 🚀");
+console.log("Welcome to my digital world! 🚀");
 ```
 
-- 💻 Passionate about creating modern digital experiences.
-- 🚀 Interested in building useful web applications and software.
-- 🎨 Focused on clean interfaces and user-friendly experiences.
-- ⚡ Always exploring new ideas and improving my skills.
-- 🌍 Creating, experimenting and building for the future.
+- 🚀 Building modern websites, applications and digital platforms.
+- 💻 Exploring frontend and backend technologies.
+- 🎨 Passionate about premium UI/UX and responsive design.
+- ⚙️ Interested in databases, cloud platforms and deployment.
+- 🔥 Constantly learning, experimenting and improving.
+- 🌍 Focused on creating meaningful digital experiences.
 
 ---
 
@@ -65,7 +86,7 @@ console.log("Let's build something amazing! 🚀");
 
 ## 🚀 FEATURED PROJECTS
 
-*Some of my digital projects and development work.*
+*Ideas transformed into digital experiences.*
 
 </div>
 
@@ -73,46 +94,46 @@ console.log("Let's build something amazing! 🚀");
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🐼 Panda Net</h3>
+<div align="center">
+
+### 🐼 PANDA NET
+
+<img src="https://img.shields.io/badge/DIGITAL%20PLATFORM-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
+
+</div>
+
+A modern digital platform built with a focus on usability, functionality and a polished user experience.
 
 <div align="center">
 
 <a href="https://www.pandanet.site/">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-020617?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/>
 
 </a>
-
-</div>
-
-A digital platform project focused on delivering a modern and user-friendly experience.
-
-<div align="center">
-
-[Visit Panda Net ↗](https://www.pandanet.site/)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 SFG-LK</h3>
+<div align="center">
+
+### 🎓 SFG-LK
+
+<img src="https://img.shields.io/badge/EDUCATION%20PLATFORM-00D9FF?style=for-the-badge&logo=vercel&logoColor=020617"/>
+
+</div>
+
+An educational platform designed to improve student learning, content management and coordination.
 
 <div align="center">
 
 <a href="https://sfg-lk.vercel.app/">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00D9FF?style=for-the-badge&logo=vercel&logoColor=020617"/>
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-020617?style=for-the-badge&logo=vercel&logoColor=00D9FF"/>
 
 </a>
-
-</div>
-
-An educational platform project designed to support students and learning management.
-
-<div align="center">
-
-[Visit SFG-LK ↗](https://sfg-lk.vercel.app/)
 
 </div>
 
@@ -122,42 +143,46 @@ An educational platform project designed to support students and learning manage
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎬 Sinhala Dub Flix</h3>
+<div align="center">
+
+### 🎬 SINHALA DUB FLIX
+
+<img src="https://img.shields.io/badge/ENTERTAINMENT%20PLATFORM-00D9FF?style=for-the-badge&logo=vercel&logoColor=020617"/>
+
+</div>
+
+A movie discovery and entertainment platform focused on an engaging browsing experience.
 
 <div align="center">
 
 <a href="https://sinhala-dub-flix.vercel.app/">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00D9FF?style=for-the-badge&logo=vercel&logoColor=020617"/>
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-020617?style=for-the-badge&logo=vercel&logoColor=00D9FF"/>
 
 </a>
-
-</div>
-
-A movie discovery and entertainment platform with a focus on modern presentation.
-
-<div align="center">
-
-[Visit Sinhala Dub Flix ↗](https://sinhala-dub-flix.vercel.app/)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">✨ Panda Studio</h3>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEVELOPMENT%20INITIATIVE-0369A1?style=for-the-badge"/>
+### ⚡ SENSI GENERATOR
+
+<img src="https://img.shields.io/badge/WEB%20APPLICATION-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
 
 </div>
 
-A creative app and web development initiative focused on building digital products and experiences.
+A web application focused on customizable gaming sensitivity configurations and user experience.
 
 <div align="center">
 
-**More Coming Soon...**
+<a href="https://sensi.pandanet.site/">
+
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-020617?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/>
+
+</a>
 
 </div>
 
@@ -169,17 +194,29 @@ A creative app and web development initiative focused on building digital produc
 
 <div align="center">
 
-## 🛠️ TECHNOLOGIES & TOOLS
+## 💻 TECHNOLOGY ARSENAL
 
-*Tools and technologies in my development environment.*
+*Technologies, frameworks and tools I work with.*
 
-</div>
+### 🌐 Frontend Development
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" />
 
-### Development Platforms
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=github,vercel,vscode,git" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php&theme=dark" />
+
+### 🗄️ Databases & Backend Services
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" />
+
+### ☁️ Cloud & Deployment Platforms
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,railway,heroku&theme=dark" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,docker&theme=dark" />
 
 </div>
 
@@ -189,21 +226,27 @@ A creative app and web development initiative focused on building digital produc
 
 ## 📊 GITHUB ANALYTICS
 
-*My coding activity and development statistics.*
+*Consistency, contributions and continuous improvement.*
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrPehesara&show_icons=true&hide_border=true&bg_color=020617&title_color=00D9FF&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPehesara&layout=compact&hide_border=true&bg_color=020617&title_color=00D9FF&text_color=CBD5E1&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPehesara&layout=compact&hide_border=true&bg_color=020617&title_color=00D9FF&text_color=CBD5E1&langs_count=10"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=MrPehesara&theme=transparent&hide_border=true&background=020617&stroke=00D9FF&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=MrPehesara&theme=transparent&hide_border=true&background=020617&stroke=00D9FF&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrPehesara&bg_color=020617&color=00D9FF&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrPehesara&bg_color=020617&color=00D9FF&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY"/>
+
+<br/>
+
+<a href="https://github.com/MrPehesara?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
 
 </div>
 
@@ -218,9 +261,9 @@ A creative app and web development initiative focused on building digital produc
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrPehesara/MrPehesara/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrPehesara/MrPehesara/output/github-snake.svg"/>
-  <img alt="Contribution Snake Animation" width="100%" src="https://raw.githubusercontent.com/MrPehesara/MrPehesara/output/github-snake.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrPehesara/MrPehesara/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrPehesara/MrPehesara/output/github-snake.svg"/>
+<img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/MrPehesara/MrPehesara/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -229,73 +272,78 @@ A creative app and web development initiative focused on building digital produc
 
 <div align="center">
 
-## ⚡ WHAT I'M FOCUSED ON
+## 🎯 CURRENTLY EXPLORING
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 💻
-**Development**
+<img src="https://img.shields.io/badge/01-00D9FF?style=for-the-badge"/>
 
-Modern web applications and digital products.
+### 🚀 Development
 
-</td>
-<td align="center" width="33%">
-
-### 🎨
-**Design**
-
-Clean UI/UX and premium experiences.
+Building and improving modern web platforms and applications.
 
 </td>
 <td align="center" width="33%">
 
-### 🚀
-**Innovation**
+<img src="https://img.shields.io/badge/02-00D9FF?style=for-the-badge"/>
 
-Exploring ideas and learning new technologies.
+### 🎨 UI / UX
+
+Creating polished, responsive and user-friendly interfaces.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/03-00D9FF?style=for-the-badge"/>
+
+### ⚡ Innovation
+
+Exploring new tools, technologies and creative solutions.
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🌐 LET'S CONNECT
 
-*Have an idea or a project? Let's create something amazing.*
+**Have an idea? Let's turn it into something amazing.**
 
 <br/>
 
 <a href="https://github.com/MrPehesara">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
 <a href="https://www.pandanet.site/">
-<img src="https://img.shields.io/badge/Panda%20Net-Visit%20Website-020617?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Panda%20Net-020617?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/>
 </a>
 
 <a href="https://github.com/MrPehesara?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/My%20Projects-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
-mr.pehesara.ofc@gmail.com
+
+<br/><br/>
+
+<a href="https://github.com/MrPehesara">
+<img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20GREAT-00D9FF?style=for-the-badge&logo=rocket&logoColor=020617"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:075985,100:020617&height=130&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,35:075985,70:082F49,100:020617&height=150&section=footer&animation=fadeIn"/>
 
-### `CODE` · `CREATE` · `INNOVATE` · `REPEAT`
+### `CODE` ⚡ `CREATE` ⚡ `INNOVATE` ⚡ `REPEAT`
 
-**Thanks for visiting my profile!** 💙
+**Thanks for visiting my GitHub profile!**
 
-<sub>Building ideas into reality, one project at a time.</sub>
+<sub>Built with passion, creativity and a love for technology. 💙</sub>
 
 </div>
